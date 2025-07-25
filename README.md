@@ -15,7 +15,7 @@ This reposiroty was build under mac environment.
 ## How to run the project
 - Clone project with command
 ```sh
-git clone git@github.com:logosz/saucedemo.git
+git clone git@github.com:logosz/remwasteTechnicalTest.git
 ```
 - Install all dependencies
 ```sh
