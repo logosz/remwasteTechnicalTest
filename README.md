@@ -3,6 +3,8 @@
 ## Description
 This repository was created to fulfill one of the hiring processes at REM WASTE.
 This reposiroty was build under mac environment.
+The website demo is https://xery-blog-mern.vercel.app/ that using React in frontend and NodeJS in backend.
+### Please note that due to the free website demo, there would be some unstable when the automation is running.
 
 ## Prerequisite
 - NodeJs
