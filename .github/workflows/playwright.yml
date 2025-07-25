@@ -40,8 +40,8 @@ jobs:
 
     - name: Run Postman API Tests with Newman
       run: |
-        newman run postman/collection.json \
-          -e postman/environment.json \
+        newman run postman/blogApp.postman_collection.json \
+          -e postman/blogApp.postman_environment.json \
           --reporters cli,json \
           --reporter-json-export postman/newman-report.json
 
