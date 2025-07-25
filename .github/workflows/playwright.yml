@@ -34,7 +34,6 @@ jobs:
         path: playwright-report/
         retention-days: 30
 
-    # 👉 Tambahkan ini untuk Newman
     - name: Install Newman
       run: npm install -g newman
 
